@@ -1,0 +1,45 @@
+Coder girl videos. These are from another class,
+but you should find some of them useful.
+Lesson 2.1: How to Use SQL Server Management Studio	https://youtu.be/jJQzrBx8rJw
+Lesson 2.2: Simple Select	https://youtu.be/pcTV_qMEZ9o
+Lesson 2.3: Square Brackets	https://youtu.be/Mzgke9af3vI
+Lesson 2.4: Type Your Select	https://youtu.be/lv1mlufbApg
+Lesson 2.5: Foreign Keys	https://youtu.be/YSnsQxSGixE
+Lesson 2.6: Normalization and Keys	https://youtu.be/4jNoME4bCl4
+Lesson 2.7: Database Normalization Steps	https://youtu.be/wNUByKNYwEQ
+Lesson 3.1: Aliases	https://youtu.be/yAXxey6-T0U
+Lesson 3.2: Sorting	https://youtu.be/7fWnseYjxGI
+Lesson 3.3: Filtering	https://youtu.be/S2FNmOeGbN8
+Lesson 3.4: Working with Nothing / Null	https://youtu.be/F44zRs8NL-I
+Lesson 3.5: Where	https://youtu.be/FEdNSFh4IYA
+Lesson 3.6: Where Clause	https://youtu.be/NP09gZ634x8
+Lesson 8.1: Inner Join	https://youtu.be/QN9Gs7lgVQE
+Lesson 8.2: Database Relationships	https://youtu.be/MOEueT3uYnY
+Lesson 8.3: Inner Join and Left Join	https://youtu.be/g-jNd3MOoYE
+Lesson 8.4: Inner Join	https://youtu.be/cUPUYZzLOJg
+Lesson 8.5: Left Join	https://youtu.be/kK5wdQq3kSk
+Lesson 10.1: Subquery IN	https://youtu.be/Tz5teG2aGPs
+Lesson 10.2: Union	https://youtu.be/Ba1JaCXMj1s
+Lesson 11.1: Case	https://youtu.be/xc7skVQQ9Mc
+Lesson 11.2: Expressions and Functions	https://youtu.be/0gmjSCVep3A
+Lesson 12.1: Aggregate Functions and Group By Clause	https://youtu.be/sPViqaEx7KY
+Lesson 12.1: Filters with the HAVING Clause	https://youtu.be/ove3FeIAOfU
+Lesson 12.3: Multiple Tables NULLs	https://youtu.be/ER_wWc0G7C4
+Lesson 12.4: Aggregate Query Summary	https://youtu.be/g_JTiTIE8Zg
+Lesson 15.1: Declaring Variables	https://youtu.be/N4oGEgHW7m0
+Lesson 15.2: Data Types - Numbers	https://youtu.be/CcYObKssPLo
+Lesson 15.3: Data Types - character data	https://youtu.be/zPQMNkiIcDU
+Lesson 15.4: Data Types - DateTime	https://youtu.be/xSiH3sz8r4I
+Lesson 16.1: Objects	https://youtu.be/s1Vstkse_i0
+Lesson 16.2: Creating Tables	https://youtu.be/z93eyS0aMeU
+Lesson 16.3: Views	https://youtu.be/iGZCxyOCuPQ
+Lesson 16.4: User Defined Functions and Types	https://youtu.be/7pu-cfbt6vc
+Lesson 16.5: Stored Procedures	https://youtu.be/9pT8x4jToKk
+Lesson 16.6: Temp Tables and Temp Variables	https://youtu.be/qSkIFqFpLhU
+Lesson 17.1: Inserting Rows	https://youtu.be/2VeHOoLDiig
+Lesson 17.2: Updating	https://youtu.be/psjcxeDSuy4
+Lesson 17.3: Deleting data	https://youtu.be/-ucAqJikLJI
+Lesson 18.1: Conditional Logic	https://youtu.be/G8pqM0D5LBE
+Lesson 18.2: Loops	https://youtu.be/h_M3l25j9ZQ
+Lesson 18.3: Stored Procs	https://youtu.be/s6XC6CzTPEQ
+
